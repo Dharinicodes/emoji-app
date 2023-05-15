@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  max-width: 600px;
+  margin: auto;
+  font-family: "Bad Script";
+  font-size: 22px;
+}
+
+body {
+  background: #bfccf6;
+  margin: 0px;
+}
+
+input {
+  font-family: inherit;
+  padding: 1rem;
+  width: 80%;
+  border-radius: 1rem;
+  border-style: none;
+  background-color: #e0e7ff;
+}
+
+span {
+  font-size: 2rem;
+  padding: 0.5rem;
+  cursor: pointer;
+}
